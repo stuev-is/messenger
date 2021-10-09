@@ -19,8 +19,8 @@
     "postcss-nested": "^4.2.3"
   },
   "scripts": {
-    "dev": "parcel index.html",
-    "build": "parcel build index.html"
+    "dev": "parcel dist/index.html",
+    "build": "parcel build dist/index.html"
   },
   "keywords": [],
   "author": "",
